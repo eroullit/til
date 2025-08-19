@@ -6,4 +6,4 @@ TIL
    :glob:
    :caption: Contents:
 
-   hello*
+   *
